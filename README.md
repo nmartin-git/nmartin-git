@@ -56,8 +56,8 @@
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nmartin-git&show_icons=true&theme=tokyonight&count_private=true" alt="Noé's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmartin-git&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nmartin-git&show_icons=true&theme=tokyonight&hide_border=true" alt="Noé's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmartin-git&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
