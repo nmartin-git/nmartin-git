@@ -46,7 +46,7 @@
 * Deployed and managed a lightweight multi-node Kubernetes cluster using **K3s**.
 * Implemented **GitOps** principles for continuous deployment and reproducible infrastructure-as-code (IaC).
 
-### 🧩 [Algorithmic Problem Solving](https://github.com/nmartin-git/ft_checkmate) · `C++`
+### 🧩 [Algorithmic Problem Solving](https://leetcode.com/u/nmartin-git/) · `C++`
 > **Systematic training focused on data structures and time/space complexity**
 * Rigorous practice on the **NeetCode 150** curriculum using C++.
 * Focus on time and space complexity optimization ($O(N)$, $O(N \log N)$), memory efficiency, and low-level algorithmic mastery.
