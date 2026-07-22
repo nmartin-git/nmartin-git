@@ -1,6 +1,7 @@
 # Hi there, I'm Noé Martin 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Noé_Martin-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/no%C3%A9-martin-175a1332a)
+[![Email](https://img.shields.io/badge/Email-nmartin.contactpro%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nmartin.contactpro@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Paris%2FTokyo-red?style=flat-square&logo=googlemaps)]()
 [![Status](https://img.shields.io/badge/Seeking-6--Month%20Internship%20in%20Tokyo%20(H1%202027)-brightgreen?style=flat-square)]()
 
@@ -64,3 +65,4 @@
 ## 📫 Connect with Me
 
 * 💼 **LinkedIn:** [linkedin.com/in/noe-martin](https://www.linkedin.com/in/no%C3%A9-martin-175a1332a)
+* ✉️ **Email:** [nmartin.contactpro@gmail.com](mailto:nmartin.contactpro@gmail.com)
