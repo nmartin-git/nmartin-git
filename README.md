@@ -46,10 +46,10 @@
 * Deployed and managed a lightweight multi-node Kubernetes cluster using **K3s**.
 * Implemented **GitOps** principles for continuous deployment and reproducible infrastructure-as-code (IaC).
 
-### 🧩 [Algorithmic Problem Solving](https://leetcode.com/u/nmartin-git/) · `C++`
+### 🧩 [Algorithmic Problem Solving](https://github.com/nmartin-git/dsa-patterns-cpp) · `C++` [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/nmartin-git/)
 > **Systematic training focused on data structures and time/space complexity**
-* Rigorous practice on the **NeetCode 150** curriculum using C++.
-* Focus on time and space complexity optimization ($O(N)$, $O(N \log N)$), memory efficiency, and low-level algorithmic mastery.
+* Production-ready implementations of the **NeetCode 150** curriculum, organized by algorithmic patterns.
+* Strict focus on time and space complexity optimization ($\mathcal{O}(N)$, $\mathcal{O}(N \log N)$ ), memory efficiency, and C++ best practices (K&R standards, memory safety).
 
 ---
 
