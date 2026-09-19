@@ -41,7 +41,7 @@
 * Designed and optimized a type-safe relational database schema using **Prisma ORM** and **PostgreSQL**.
 * Built real-time state management and robust API architectures utilizing **Next.js** and **TypeScript**.
 
-### ☁️ Inception of Things · `Kubernetes` `K3s` `GitOps` `Docker`
+### ☁️ [Inception of Things](https://github.com/nmartin-git/Inception-of-Things) · `Kubernetes` `K3s` `GitOps` `Docker`
 > **Cloud-native infrastructure and automated deployment pipeline**
 * Deployed and managed a lightweight multi-node Kubernetes cluster using **K3s**.
 * Implemented **GitOps** principles for continuous deployment and reproducible infrastructure-as-code (IaC).
